@@ -1,0 +1,10 @@
+﻿  Kaynak.cpp
+C:\Users\direc\source\repos\Project2\Project2\Kaynak.cpp(69,41): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\direc\source\repos\Project2\Project2\Kaynak.cpp(79,41): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\direc\source\repos\Project2\Project2\Kaynak.cpp(86,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\direc\source\repos\Project2\Project2\Kaynak.cpp(99,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\direc\source\repos\Project2\Project2\Kaynak.cpp(112,41): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\direc\source\repos\Project2\Project2\Kaynak.cpp(162,45): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\direc\source\repos\Project2\Project2\Kaynak.cpp(200,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\direc\source\repos\Project2\Project2\Kaynak.cpp(207,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  Project2.vcxproj -> C:\Users\direc\source\repos\Project2\Debug\Project2.exe
